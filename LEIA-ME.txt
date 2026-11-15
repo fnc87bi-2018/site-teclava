@@ -1,16 +1,16 @@
-ASSISTÊNCIA TÉCNICA TECLAVA — SITE VERSÃO 1.2
-Abra index.html no navegador para visualizar.
+ASSISTÊNCIA TÉCNICA TECLAVA — SITE VERSÃO 2.0
+
 Páginas: Início, Quem somos, Serviços, Equipamentos, Marcas e Contato.
-Área indicada no site: Porto Alegre, Rio Grande do Sul.
-WhatsApp confirmado na arte original: (51) 99172-2935.
+Hospedagem: Cloudflare Pages (deploy conectado ao GitHub).
+Repositório: fnc87bi-2018/site-teclava
+Área informada: Porto Alegre, Rio Grande do Sul.
+WhatsApp: (51) 99172-2935
 
-SERVIÇOS DETALHADOS:
-Purificador Electrolux: troca de filtro na casa do cliente; troca do sistema de refrigeração; limpeza do tanque.
-Geladeira: troca de compressor; ventilador; sensor.
-Micro-ondas: troca de capacitor; magnetron; painel; carcaça.
+Atualizações v2.0:
+- Símbolo da marca fornecido pelo cliente no cabeçalho.
+- Mascote fornecido pelo cliente no banner e página Quem somos.
+- Serviços detalhados para purificador Electrolux, geladeiras e micro-ondas.
+- Botões de orçamento com mensagens específicas via WhatsApp.
+- Ajustes responsivos para desktop e celular.
 
-ANTES DE PUBLICAR:
-1. Confirmar endereço completo e horários de atendimento.
-2. Confirmar escopo de serviços, marcas e modelos atendidos.
-3. Confirmar condições de garantia e política de peças.
-4. Inserir fotos reais e configurar domínio e hospedagem.
+Para publicar: envie o conteúdo desta pasta para o repositório GitHub site-teclava, substituindo os arquivos correspondentes. A Cloudflare Pages fará o deploy automaticamente após o commit.
