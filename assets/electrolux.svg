@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
- <title>Electrolux</title>
- <g fill="#001E50">
-  <circle cx="58" cy="60" r="42" fill="none" stroke="#001E50" stroke-width="7"/>
-  <path d="M30 60h56M58 32v56M39 41l38 38M77 41 39 79" fill="none" stroke="#001E50" stroke-width="5"/>
-  <text x="120" y="79" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="600" letter-spacing="-3">Electrolux</text>
- </g>
+  <g fill="#001E50">
+    <circle cx="58" cy="60" r="42" fill="none" stroke="#001E50" stroke-width="7"/>
+    <path d="M58 30 L58 50 M58 70 L58 90 M28 60 L48 60 M68 60 L88 60" fill="none" stroke="#001E50" stroke-width="5"/>
+    <path d="M36 38 L50 52 M66 68 L80 82 M80 38 L66 52 M50 68 L36 82" fill="none" stroke="#001E50" stroke-width="5"/>
+    <text x="120" y="79" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="600">Electrolux</text>
+  </g>
 </svg>
