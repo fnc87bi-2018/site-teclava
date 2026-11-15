@@ -33,18 +33,18 @@ html{scroll-padding-top:105px}section[id]{scroll-margin-top:110px}
 }
 
 /* POSICIONAMENTO DOS SELOS DO MASCOTE */
-.hero-art .floating-tag.tag-one {
+.hero-art .floating-tag.tag-two {
     left: auto;
-    right: -180px;
+    right: -100px;
     top: 28px;
     bottom: auto;
     z-index: 10;
 }
 
-.hero-art .floating-tag.tag-two {
+.hero-art .floating-tag.tag-one {
     left: auto;
-    right: -180px;
-    bottom: 100px;
-    top: auto;
+    right: -100px;
+    top: 85px;
+    bottom: auto;
     z-index: 10;
 }
