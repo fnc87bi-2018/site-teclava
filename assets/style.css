@@ -32,9 +32,10 @@ html{scroll-padding-top:105px}section[id]{scroll-margin-top:110px}
     }
 }
 
-/* AJUSTE DO SELO DE ATENDIMENTO */
-.hero-mascote .tag-two {
+/* POSICIONAMENTO DO SELO DE ATENDIMENTO */
+.hero-art .floating-tag.tag-two {
     left: -180px;
+    right: auto;
     bottom: 28px;
-    z-index: 5;
+    z-index: 10;
 }
