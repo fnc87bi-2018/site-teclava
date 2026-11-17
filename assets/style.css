@@ -71,3 +71,8 @@ html{scroll-padding-top:105px}section[id]{scroll-margin-top:110px}
     }
 
 }
+
+
+/* Crédito discreto de desenvolvimento — FNC87.BI */
+.footer-credit{font-size:11px;letter-spacing:.2px;color:#8fa2bf;opacity:.78;white-space:nowrap}
+.footer-credit strong{color:#dce7fb;font-weight:800;letter-spacing:.7px}
